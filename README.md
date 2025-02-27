@@ -1,7 +1,7 @@
 # LABORATORIO 3 - TDD
 
 
-Este laboratorio está diseñado para introducirnos en el uso de Git y GitHub, dos herramientas esenciales para el manejo de versiones y la colaboración en proyectos de software. A lo largo de este laboratorio, se aprendieron los conceptos básicos de Git y cómo interactuar con repositorios de GitHub de forma local y remota.
+Este laboratorio está diseñado para introducirnos en el uso de Jacoco y Docker, dos herramientas esenciales para el manejo de pruebas y el analisis en proyectos de software. A lo largo de este laboratorio, se aprendieron los conceptos de las pruebas TDD y cómo manejar las pruebas para avarcar todo el proyecto.
 
 ## Objetivos Laboratorio
 
